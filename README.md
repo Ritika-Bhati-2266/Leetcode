@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1025-divisor-game) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
