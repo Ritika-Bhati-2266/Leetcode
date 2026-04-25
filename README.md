@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/0258-add-digits) |
+| [1025-divisor-game](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
