@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/0258-add-digits) |
 | [1025-divisor-game](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1025-divisor-game) |
+| [1952-three-divisors](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1952-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1952-three-divisors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1929-concatenation-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
