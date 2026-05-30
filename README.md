@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/0035-search-insert-position) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ritika-Bhati-2266/Leetcode_Question/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
