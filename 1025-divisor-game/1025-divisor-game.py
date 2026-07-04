@@ -1,0 +1,6 @@
+class Solution:
+    def divisorGame(self, n: int) -> bool:
+        last_digit = n%2
+        if last_digit == 0:
+            return True
+        return False
